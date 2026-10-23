@@ -1,0 +1,26 @@
+conversation_id,deal_name,account_name,representative,conversation_date,source,is_synthetic,transcript
+CONV-001,Acme Corp — Enterprise License,Acme Corporation,Sarah Mitchell,2026-10-15,zoom_recording,true,"Sarah Mitchell: Thanks for joining today, Mark. I wanted to follow up on the enterprise license proposal we sent over.
+Mark Chen: Thanks Sarah. We reviewed it with the team. The platform looks promising, and this is exactly what we need for our sales operations.
+Sarah Mitchell: Great to hear! What were your main impressions?
+Mark Chen: The dashboard is really clean, and the AI analysis features are impressive. We love it and are ready to move forward.
+Sarah Mitchell: Excellent. What does the next step look like on your end?
+Mark Chen: I just need to get sign-off from our CFO, Jennifer Park. She will want to review the contract before we sign.
+Sarah Mitchell: Of course. When can we expect her review?
+Mark Chen: She is back from vacation on Monday. I will send her the contract by end of day Monday and we should have her decision by Wednesday.
+Sarah Mitchell: Perfect. I will schedule a follow-up call for Thursday to finalise everything.
+Mark Chen: Sounds good. One thing — can you confirm the onboarding timeline? We have a product launch in Q1 and we need this live before January 15th.
+Sarah Mitchell: Absolutely. Standard onboarding is four weeks. If we sign by end of October, you will be fully live by late November, well before your deadline.
+Mark Chen: That works perfectly for us. Let's proceed.
+Sarah Mitchell: Wonderful. I will send the updated contract today."
+CONV-002,Globex Solutions — Professional Plan,Globex Solutions,David Park,2026-10-12,phone_call,true,"David Park: Hi Lisa, checking in on the Professional Plan proposal. Did you get a chance to review it?
+Lisa Nguyen: Yes, David. Honestly, the price is too high for us right now. We were expecting something closer to half that cost.
+David Park: I understand the concern. Can you help me understand your budget range?
+Lisa Nguyen: We budgeted around $15,000 annually. Your proposal was almost $28,000. That's out of our budget completely.
+David Park: I see. There may be room to negotiate on the price. Let me check with our deal desk and see what flexibility we have.
+Lisa Nguyen: Also, we are evaluating two other vendors right now. One competitor has a lower price, though I admit their feature set is not as strong.
+David Park: I appreciate you sharing that. What would make this a clear win for you over the competitor?
+Lisa Nguyen: If the pricing came down and you could prove the ROI more clearly, we would definitely prefer your platform. Can you provide a business case document?
+David Park: Absolutely. I will send a detailed ROI analysis by end of week. I also want to schedule a demo with your finance team so we can justify the investment.
+Lisa Nguyen: That would help. But we need a decision by November 3rd because our budget cycle closes then.
+David Park: Understood. I will get the ROI document to you by this Friday and we can schedule the finance demo for early next week.
+Lisa Nguyen: Great. If the numbers make sense, we are ready to move forward quickly."

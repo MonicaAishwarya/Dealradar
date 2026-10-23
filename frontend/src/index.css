@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-navy-950: #0a0f1e;
+  --color-navy-900: #0d1528;
+  --color-navy-800: #111e3a;
+  --color-navy-700: #162347;
+  --color-navy-600: #1c2d5a;
+  --color-surface: #f8f9fc;
+  --color-card: #ffffff;
+  --color-border: #e5e9f0;
+  --color-muted: #6b7280;
+  --color-risk-critical: #dc2626;
+  --color-risk-high: #ea580c;
+  --color-risk-medium: #d97706;
+  --color-risk-low: #16a34a;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f8f9fc;
+  color: #111827;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

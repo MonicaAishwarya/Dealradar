@@ -1,0 +1,75 @@
+{
+  "_note": "SYNTHETIC SAMPLE DATA — Not real customer data. For demonstration only.",
+  "conversations": [
+    {
+      "conversation_id": "CONV-001",
+      "deal_name": "Acme Corp — Enterprise License",
+      "account_name": "Acme Corporation",
+      "representative": "Sarah Mitchell",
+      "conversation_date": "2026-10-15",
+      "source": "zoom_recording",
+      "is_synthetic": true,
+      "transcript": "Sarah Mitchell: Thanks for joining today, Mark. I wanted to follow up on the enterprise license proposal we sent over.\nMark Chen: Thanks Sarah. We reviewed it with the team. The platform looks promising, and this is exactly what we need for our sales operations.\nSarah Mitchell: Great to hear! What were your main impressions?\nMark Chen: The dashboard is really clean, and the AI analysis features are impressive. We love it and are ready to move forward.\nSarah Mitchell: Excellent. What does the next step look like on your end?\nMark Chen: I just need to get sign-off from our CFO, Jennifer Park. She will want to review the contract before we sign.\nSarah Mitchell: Of course. When can we expect her review?\nMark Chen: She is back from vacation on Monday. I will send her the contract by end of day Monday and we should have her decision by Wednesday.\nSarah Mitchell: Perfect. I will schedule a follow-up call for Thursday to finalise everything.\nMark Chen: Sounds good. One thing — can you confirm the onboarding timeline? We have a product launch in Q1 and we need this live before January 15th.\nSarah Mitchell: Absolutely. Standard onboarding is four weeks. If we sign by end of October, you will be fully live by late November, well before your deadline.\nMark Chen: That works perfectly for us. Let's proceed.\nSarah Mitchell: Wonderful. I will send the updated contract today."
+    },
+    {
+      "conversation_id": "CONV-002",
+      "deal_name": "Globex Solutions — Professional Plan",
+      "account_name": "Globex Solutions",
+      "representative": "David Park",
+      "conversation_date": "2026-10-12",
+      "source": "phone_call",
+      "is_synthetic": true,
+      "transcript": "David Park: Hi Lisa, checking in on the Professional Plan proposal. Did you get a chance to review it?\nLisa Nguyen: Yes, David. Honestly, the price is too high for us right now. We were expecting something closer to half that cost.\nDavid Park: I understand the concern. Can you help me understand your budget range?\nLisa Nguyen: We budgeted around $15,000 annually. Your proposal was almost $28,000. That's out of our budget completely.\nDavid Park: I see. There may be room to negotiate on the price. Let me check with our deal desk and see what flexibility we have.\nLisa Nguyen: Also, we are evaluating two other vendors right now. One competitor has a lower price, though I admit their feature set is not as strong.\nDavid Park: I appreciate you sharing that. What would make this a clear win for you over the competitor?\nLisa Nguyen: If the pricing came down and you could prove the ROI more clearly, we would definitely prefer your platform. Can you provide a business case document?\nDavid Park: Absolutely. I will send a detailed ROI analysis by end of week. I also want to schedule a demo with your finance team so we can justify the investment.\nLisa Nguyen: That would help. But we need a decision by November 3rd because our budget cycle closes then.\nDavid Park: Understood. I will get the ROI document to you by this Friday and we can schedule the finance demo for early next week.\nLisa Nguyen: Great. If the numbers make sense, we are ready to move forward quickly."
+    },
+    {
+      "conversation_id": "CONV-003",
+      "deal_name": "Initech Industries — Data Platform",
+      "account_name": "Initech Industries",
+      "representative": "Rachel Torres",
+      "conversation_date": "2026-10-08",
+      "source": "zoom_recording",
+      "is_synthetic": true,
+      "transcript": "Rachel Torres: Hello Tom, thanks for the demo session. I wanted to address the technical questions your IT team raised.\nTom Bradley: Sure. Our CTO flagged some serious concerns after the demo. The main issue is that your platform doesn't seem to support our existing SSO provider, which is Okta with custom SAML configuration.\nRachel Torres: That is a valid concern. Our platform supports standard SAML 2.0, but custom configurations may require additional integration work.\nTom Bradley: Also, we have a compliance requirement. We are HIPAA regulated and need to confirm that your data residency is in the US. Can you confirm this?\nRachel Torres: Data residency in the US is fully supported on our Enterprise tier. I can have our security team send over the compliance documentation.\nTom Bradley: Good. But the SSO issue is still a blocker. Our IT team says this is not supported and we cannot proceed without it.\nRachel Torres: I understand. Let me escalate this to our engineering team today. I will get a definitive answer on the Okta SAML compatibility within 48 hours.\nTom Bradley: We appreciate that. But I should be transparent — if this technical issue cannot be resolved, we will have to explore other options. We cannot compromise on security compliance.\nRachel Torres: I completely understand. I will personally ensure the engineering team prioritises this. Can we schedule a technical call with both IT teams for Thursday?\nTom Bradley: Yes, that works. I will have our CTO and IT director on the call.\nRachel Torres: Perfect. I will send the calendar invite today and the compliance docs tomorrow morning."
+    },
+    {
+      "conversation_id": "CONV-004",
+      "deal_name": "Umbrella Corp — SMB Package",
+      "account_name": "Umbrella Corporation",
+      "representative": "James Wilson",
+      "conversation_date": "2026-09-28",
+      "source": "email_thread",
+      "is_synthetic": true,
+      "transcript": "James Wilson: Hi Maria, just following up on the SMB package discussion from last month. I had promised to send the updated pricing sheet by September 15th.\nMaria Santos: James, I noticed you never sent that. It has been two weeks since the deadline you set.\nJames Wilson: I sincerely apologise for that. There were some internal delays. I am sending the updated pricing sheet now with this message.\nMaria Santos: Thank you. I have to say, the delay made us question the responsiveness of your team. We are a small business and we need a responsive vendor.\nJames Wilson: That is completely fair feedback. I will personally ensure faster turnaround going forward. I am also scheduling a call this week.\nMaria Santos: We also had some concerns I meant to raise. Honestly, not sure the ROI is there for a company our size. We only have five sales reps.\nJames Wilson: Many of our most successful customers started with small teams. The platform scales with you. Would you be open to a ROI calculation specific to your team size?\nMaria Santos: Maybe. But I need more time to think about it. This is not a priority for us right now. Let me get back to you in two weeks.\nJames Wilson: Of course. I will follow up on November 10th. Is that a good date?\nMaria Santos: That works."
+    },
+    {
+      "conversation_id": "CONV-005",
+      "deal_name": "Vandelay Industries — Analytics Suite",
+      "account_name": "Vandelay Industries",
+      "representative": "Emily Chen",
+      "conversation_date": "2026-10-18",
+      "source": "zoom_recording",
+      "is_synthetic": true,
+      "transcript": "Emily Chen: Good morning George! Thanks for making time today.\nGeorge Costanza: Happy to be here. I watched the demo recording and I have to say, this is exactly what we have been missing. The analytics capabilities are impressive.\nEmily Chen: Wonderful to hear. What stood out most?\nGeorge Costanza: The conversation intelligence features. We have been struggling to manually review call recordings. This would save my team probably 10 hours a week. We love it.\nEmily Chen: That is a common benefit we see. Based on your team of 20 reps, you would see significant time savings.\nGeorge Costanza: Our budget is approved for this quarter. The board already signed off on the analytics investment during our Q4 planning. So the money is there.\nEmily Chen: That is great news. What is the next step you need from us?\nGeorge Costanza: Send me the contract and the onboarding plan. I want to share both with our VP of Sales this week for final sign-off.\nEmily Chen: I will send everything today. Can we schedule the kick-off call for next week?\nGeorge Costanza: Absolutely. Let's schedule it for November 3rd. My VP will want to be on that call too.\nEmily Chen: Perfect. I will send the contract, onboarding plan, and calendar invite by end of today.\nGeorge Costanza: One thing to flag — our legal team may want to review the data processing agreement. Can you send that separately?\nEmily Chen: Of course. I will include the DPA with the contract package. Our legal team is very responsive and typically turns reviews around in three business days.\nGeorge Costanza: Great. I am excited to get started. This is going to transform how we coach our sales team."
+    },
+    {
+      "conversation_id": "CONV-006",
+      "deal_name": "Cyberdyne Systems — Security Review",
+      "account_name": "Cyberdyne Systems",
+      "representative": "Alex Morgan",
+      "conversation_date": "2026-10-05",
+      "source": "phone_call",
+      "is_synthetic": true,
+      "transcript": "Alex Morgan: Hi Dr. Dyson, I wanted to check in following our last conversation. Did your security team complete their review?\nMiles Dyson: Alex, I have to be honest with you. We have had some concerns surface during our internal review.\nAlex Morgan: I appreciate you sharing that. What concerns came up?\nMiles Dyson: First, your SOC 2 Type II certification expired six months ago according to our compliance check. That is a hard blocker for us.\nAlex Morgan: That is a serious point. Let me verify the certification status and get back to you urgently.\nMiles Dyson: Second, our CISO flagged that your API does not support mutual TLS, which is a requirement in our security policy.\nAlex Morgan: I will escalate the mTLS question to our engineering team today.\nMiles Dyson: I am glad you take this seriously. But I want to be transparent — if these security issues are not resolved, the deal will not move forward. Our CISO has veto power on any technology purchase.\nAlex Morgan: Understood completely. I am going to loop in our VP of Engineering and our Head of Security. Can we arrange a call for early next week with both security teams?\nMiles Dyson: Yes. But I need answers on the SOC 2 certification before that call. That is non-negotiable.\nAlex Morgan: I will have that information for you by end of business tomorrow. And I will send you our current security documentation this afternoon.\nMiles Dyson: Appreciate that. Just to set expectations — we also have a procurement process that requires board approval for contracts over $50,000. That will take time.\nAlex Morgan: Of course. Let's focus on resolving the technical blockers first and then we can work through procurement together."
+    },
+    {
+      "conversation_id": "CONV-007",
+      "deal_name": "Hooli Inc — Starter Package",
+      "account_name": "Hooli Incorporated",
+      "representative": "Kevin Zhang",
+      "conversation_date": "2026-10-20",
+      "source": "zoom_recording",
+      "is_synthetic": true,
+      "transcript": "Kevin Zhang: Good afternoon Richard. How did the trial go?\nRichard Hendricks: Honestly Kevin, it went really well. The team found the platform intuitive and the insights were genuinely useful.\nKevin Zhang: Fantastic. Any questions or concerns come up during the trial?\nRichard Hendricks: Nothing major. A couple of minor UX suggestions, but nothing that would be a blocker.\nKevin Zhang: That is great to hear. Are you ready to talk about moving to a paid plan?\nRichard Hendricks: Yes. We want to go with the Starter Package. The price point makes sense for our stage. Let's proceed.\nKevin Zhang: Excellent. I will send the contract over this afternoon. What is the best email for the contract?\nRichard Hendricks: Send it to richard at hooli dot com. I should be able to sign by end of the week.\nKevin Zhang: Perfect. I will also include our onboarding guide. We can schedule a 30-minute onboarding call for early next week if that works.\nRichard Hendricks: Sure. Monday morning works well for us.\nKevin Zhang: I will block Monday at 10 AM. Look forward to welcoming Hooli to the platform."
+    }
+  ]
+}
